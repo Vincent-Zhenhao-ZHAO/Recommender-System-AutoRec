@@ -7,6 +7,7 @@
 - [Results](#results)
 - [References](#references)
 - [Training Parameters](#training-parameters)
+- [Example Output](#example-output)
 
 ## 📦 Required Libraries
 - pandas
@@ -94,3 +95,6 @@ Results may exhibit slight variations due to random data splitting for training 
 - **Batch Size**: 512
 - **Epochs**: 100
 - **Hidden Layers**: 500
+
+## Example output
+![Example output](video.gif)
