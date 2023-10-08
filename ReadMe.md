@@ -1,7 +1,4 @@
-# Project Title
-
-Welcome to our project! Here we delve into machine learning models, focusing on the implementation and evaluation of AutoRec and Non-Personalised models.
-
+# Movie recommender system using AutoRec and SVD
 ## 📚 Table of Contents
 - [Required Libraries](#required-libraries)
 - [Usage](#usage)
