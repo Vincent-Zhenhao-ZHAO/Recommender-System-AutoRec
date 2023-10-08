@@ -1,0 +1,5 @@
+RMSE: Collaborative Filtering:  1.08  Non-Personalised:  1.33
+nDCG10: Collaborative Filtering:  0.10  Non-Personalised:  0.19
+nDCG100: Collaborative Filtering:  0.03  Non-Personalised:  0.14
+HitRate(k=5): Collaborative Filtering:  0.22  Non-Personalised:  0.23
+HitRate(k=10): Collaborative Filtering:  0.11  Non-Personalised:  0.23
